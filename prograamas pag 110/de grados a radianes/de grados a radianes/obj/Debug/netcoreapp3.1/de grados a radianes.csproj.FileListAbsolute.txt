@@ -1,0 +1,13 @@
+C:\Users\Bryan\source\repos\de grados a radianes\de grados a radianes\bin\Debug\netcoreapp3.1\de grados a radianes.exe
+C:\Users\Bryan\source\repos\de grados a radianes\de grados a radianes\bin\Debug\netcoreapp3.1\de grados a radianes.deps.json
+C:\Users\Bryan\source\repos\de grados a radianes\de grados a radianes\bin\Debug\netcoreapp3.1\de grados a radianes.runtimeconfig.json
+C:\Users\Bryan\source\repos\de grados a radianes\de grados a radianes\bin\Debug\netcoreapp3.1\de grados a radianes.runtimeconfig.dev.json
+C:\Users\Bryan\source\repos\de grados a radianes\de grados a radianes\bin\Debug\netcoreapp3.1\de grados a radianes.dll
+C:\Users\Bryan\source\repos\de grados a radianes\de grados a radianes\bin\Debug\netcoreapp3.1\de grados a radianes.pdb
+C:\Users\Bryan\source\repos\de grados a radianes\de grados a radianes\obj\Debug\netcoreapp3.1\de grados a radianes.csprojAssemblyReference.cache
+C:\Users\Bryan\source\repos\de grados a radianes\de grados a radianes\obj\Debug\netcoreapp3.1\de grados a radianes.AssemblyInfoInputs.cache
+C:\Users\Bryan\source\repos\de grados a radianes\de grados a radianes\obj\Debug\netcoreapp3.1\de grados a radianes.AssemblyInfo.cs
+C:\Users\Bryan\source\repos\de grados a radianes\de grados a radianes\obj\Debug\netcoreapp3.1\de grados a radianes.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\source\repos\de grados a radianes\de grados a radianes\obj\Debug\netcoreapp3.1\de grados a radianes.dll
+C:\Users\Bryan\source\repos\de grados a radianes\de grados a radianes\obj\Debug\netcoreapp3.1\de grados a radianes.pdb
+C:\Users\Bryan\source\repos\de grados a radianes\de grados a radianes\obj\Debug\netcoreapp3.1\de grados a radianes.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Bryan\source\repos\Semana\Semana\bin\Debug\netcoreapp3.1\Semana.exe
+C:\Users\Bryan\source\repos\Semana\Semana\bin\Debug\netcoreapp3.1\Semana.deps.json
+C:\Users\Bryan\source\repos\Semana\Semana\bin\Debug\netcoreapp3.1\Semana.runtimeconfig.json
+C:\Users\Bryan\source\repos\Semana\Semana\bin\Debug\netcoreapp3.1\Semana.runtimeconfig.dev.json
+C:\Users\Bryan\source\repos\Semana\Semana\bin\Debug\netcoreapp3.1\Semana.dll
+C:\Users\Bryan\source\repos\Semana\Semana\bin\Debug\netcoreapp3.1\Semana.pdb
+C:\Users\Bryan\source\repos\Semana\Semana\obj\Debug\netcoreapp3.1\Semana.csprojAssemblyReference.cache
+C:\Users\Bryan\source\repos\Semana\Semana\obj\Debug\netcoreapp3.1\Semana.AssemblyInfoInputs.cache
+C:\Users\Bryan\source\repos\Semana\Semana\obj\Debug\netcoreapp3.1\Semana.AssemblyInfo.cs
+C:\Users\Bryan\source\repos\Semana\Semana\obj\Debug\netcoreapp3.1\Semana.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\source\repos\Semana\Semana\obj\Debug\netcoreapp3.1\Semana.dll
+C:\Users\Bryan\source\repos\Semana\Semana\obj\Debug\netcoreapp3.1\Semana.pdb
+C:\Users\Bryan\source\repos\Semana\Semana\obj\Debug\netcoreapp3.1\Semana.genruntimeconfig.cache
